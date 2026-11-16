@@ -1,0 +1,20 @@
+body {
+   background-color: #000035; /* Warna Deep navy blue */
+   font-family: Arial, sans serif; /* Jenis huruf yang bersih dan mudah dibaca */
+   color: #FFFFF0; /* Warna teks utama (Putih Gading) */
+}
+
+.kartu-profil {
+   width: 300px;
+   margin: 50px auto; /*px jarak atas/bawah, auto menengahkan kiri/kanan */
+   padding: 20px;
+   background-color: white;
+   boder-radius: 50px; /* membuat sudut menjadi melengkung */
+   box-shadow: 0 4px 8px rgba(0,0,0,1); /* efek bayangan*/
+   text-align: center; /* menengahkan semua teks di dalam kartu */
+}
+
+.kartu-profil img. {
+    width: 150px;
+    border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkungan sempurna */
+}
